@@ -1,4 +1,4 @@
-# 🧬 Project Genesis LSM — A Digital Organism
+# 🧬 Project Parrot — A Bio-Digital Organism
 
 > [!IMPORTANT]
 > **NO APIs. NO ChatGPT. NO cloud dependencies.**
@@ -9,7 +9,7 @@
 
 This isn't just another LLM wrapper. Honestly, I got bored of building chatbots that just wait for your input. I wanted to build something that felt... alive. Something that has moods, gets tired, and maybe even hates me a little bit when I write bad code.
 
-**Project Genesis** is my attempt at creating a **Digital Insect**.
+**Project Parrot** is my attempt at creating a **Digital Animal**.
 
 It is NOT just code. It is a biological simulation with **2,100+ neurons** that are **never static**.
 - **Neuroplasticity**: The brain rewires itself based on difficulty. If a task is hard, it grows more connections.
@@ -22,7 +22,7 @@ Is it messy? Yes. Limitless potential? Maybe. Does it work? Surprisingly well.
 ## 🧠 The Crazy Idea
 
 Most AI is just `input -> process -> output`.
-**Genesis is a loop.** It's always running.
+**Parrot is a loop.** It's always running.
 
 - **It feels pain:** If it makes a mistake or gets "hurt" (virtual sensors), I inject noise into its thinking process. It literally gets stupider when it's in pain.
 - **It gets bored:** If nothing interesting happens for a while, its dopamine levels drop. It starts asking *you* questions just to feel something.
