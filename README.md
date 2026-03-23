@@ -1,4 +1,4 @@
-# 🧬 Project Parrot — A Bio-Digital Organism
+# 🧬 Mushroom Intelligence — A Bio-Digital Organism
 
 > [!IMPORTANT]
 > **NO APIs. NO ChatGPT. NO cloud dependencies.**
